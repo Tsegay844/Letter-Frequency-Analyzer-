@@ -1,6 +1,7 @@
 # Letter Frequency Analyzer
 
 This repository contains implementations of a Letter Frequency Analyzer using Hadoop MapReduce and Spark.
+Please note that this project was carried out as a University Course project.
 
 ## Repository Structure
 
